@@ -19,4 +19,4 @@ Sharpstation! What Is Sharpstation? Sharpstation Is (Or Will Be) An Playstation 
 
 
 
-     Your Contributions Are Ofcourse Welcome!
+Your Contributions Are Ofcourse Welcome!
