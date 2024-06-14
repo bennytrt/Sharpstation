@@ -29,8 +29,8 @@ namespace SharpStation
             gpu.Initialize();
             memory.Initialize();
 
-            // Placeholder for starting the emulation loop
-            Console.WriteLine("Emulation started (placeholder)...");
+            // Placeholder For Starting Emu Loop Till I Find Out How :)
+            Console.WriteLine("Emulation started (PLACEHOLDER TILL A GOOD METHOD HAS BEEN FOUND)");
         }
 
         public void LoadROM(string path)
