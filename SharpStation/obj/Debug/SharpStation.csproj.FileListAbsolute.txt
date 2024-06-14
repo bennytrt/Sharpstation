@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\SharpStation\SharpStation\bin\Debug\SharpStation.exe.config
+C:\Users\super\source\repos\SharpStation\SharpStation\bin\Debug\SharpStation.exe
+C:\Users\super\source\repos\SharpStation\SharpStation\bin\Debug\SharpStation.pdb
+C:\Users\super\source\repos\SharpStation\SharpStation\obj\Debug\SharpStation.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\SharpStation\SharpStation\obj\Debug\SharpStation.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\SharpStation\SharpStation\obj\Debug\SharpStation.exe
+C:\Users\super\source\repos\SharpStation\SharpStation\obj\Debug\SharpStation.pdb
