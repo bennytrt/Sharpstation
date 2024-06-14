@@ -51,13 +51,13 @@ namespace SharpStation
     {
         public void Initialize()
         {
-            // Placeholder for CPU initialization logic
+            // Placeholder for CPU Initialization Logic Till I Find Out How :)
             Console.WriteLine("Initializing CPU...");
         }
 
         public void ExecuteNextInstruction(Memory memory)
         {
-            // Placeholder for instruction execution logic
+            // Placeholder For Instruction Execution Till I Find Out How :)
             Console.WriteLine("Executing next CPU instruction...");
         }
     }
@@ -66,13 +66,13 @@ namespace SharpStation
     {
         public void Initialize()
         {
-            // Placeholder for GPU initialization logic
+            // Placeholder for GPU Initialization Logic Till I Find Out How :)
             Console.WriteLine("Initializing GPU...");
         }
 
         public void RenderNextFrame()
         {
-            // Placeholder for rendering logic
+            // Placeholder for Frame Rendering Till I Find Out How :)
             Console.WriteLine("Rendering next frame...");
         }
     }
@@ -81,19 +81,19 @@ namespace SharpStation
     {
         public void Initialize()
         {
-            // Placeholder for memory initialization logic
+            // Placeholder for Memory Initialization Till I Find Out How :)
             Console.WriteLine("Initializing Memory...");
         }
 
         public byte ReadByte(uint address)
         {
-            // Placeholder for memory read logic
+            // Placeholder for Memory Read Till I Find Out How :)
             return 0;
         }
 
         public void WriteByte(uint address, byte value)
         {
-            // Placeholder for memory write logic
+            // Placeholder for Memory Writing Till I Find Out How :)
         }
     }
 }
